@@ -16,7 +16,7 @@ Programs to troll your friends
 
 ### RR, RickRoll
 
-This program plays the RickRoll song from YouTube over and over and over every second in your default browser.
+This program plays the RickRoll song from YouTube over and over and over every second in your default browser and creates a log of the times RickRolled.
 **This is stoppable** if you are quick enough.
 
 ### SP, Spam
