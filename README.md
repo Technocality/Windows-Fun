@@ -11,7 +11,6 @@ Programs to troll your friends
 
 &nbsp;
 &nbsp;
-&nbsp;
 
 ## Programs
 
@@ -28,7 +27,6 @@ This program spams Windows CMD prompts open until memory fills up.
 
 &nbsp;
 &nbsp;
-&nbsp;
 
 ## Usage/Naming Scheme
 
@@ -40,7 +38,6 @@ RN means run, it is the actual program
 
 The second part being what the programs short name is.
 
-&nbsp;
 &nbsp;
 &nbsp;
 
